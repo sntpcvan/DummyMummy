@@ -1,0 +1,14 @@
+D:\gitub\DummyMummy\DummyMummy\bin\Debug\netcoreapp2.1\DummyMummy.deps.json
+D:\gitub\DummyMummy\DummyMummy\bin\Debug\netcoreapp2.1\DummyMummy.runtimeconfig.json
+D:\gitub\DummyMummy\DummyMummy\bin\Debug\netcoreapp2.1\DummyMummy.runtimeconfig.dev.json
+D:\gitub\DummyMummy\DummyMummy\bin\Debug\netcoreapp2.1\DummyMummy.dll
+D:\gitub\DummyMummy\DummyMummy\bin\Debug\netcoreapp2.1\DummyMummy.pdb
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.csprojAssemblyReference.cache
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.csproj.CoreCompileInputs.cache
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.RazorAssemblyInfo.cache
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.RazorAssemblyInfo.cs
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.AssemblyInfoInputs.cache
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.AssemblyInfo.cs
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.RazorTargetAssemblyInfo.cache
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.dll
+D:\gitub\DummyMummy\DummyMummy\obj\Debug\netcoreapp2.1\DummyMummy.pdb
